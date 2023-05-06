@@ -6,10 +6,10 @@ Si estás buscando un lugar para encontrar las piezas de joyería perfectas para
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Color | ![#FF99A8](https://via.placeholder.com/10/FF99A8?text=+) #FF99A8 |
-| Color | ![#FFB3BE](https://via.placeholder.com/10/FFB3BE?text=+) #FFB3BE |
-| Color | ![#FFCCD4](https://via.placeholder.com/10/FFCCD4?text=+) #FFCCD4 |
-| Color | ![#FFE5E9](https://via.placeholder.com/10/FFE5E9?text=+) #FFE5E9 |
+| Color | ![#E9CCFF](https://via.placeholder.com/10/E9CCFF?text=+) #E9CCFF |
+| Color | ![#B580FF](https://via.placeholder.com/10/B580FF?text=+) #B580FF |
+| Color | ![#8A2BE2](https://via.placeholder.com/10/8A2BE2?text=+) #8A2BE2 |
+| Color | ![#323232](https://via.placeholder.com/10/323232?text=+) #323232 |
 
 # Prototype Web
 
