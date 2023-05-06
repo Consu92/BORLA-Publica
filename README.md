@@ -6,10 +6,10 @@ Si estás buscando un lugar para encontrar las piezas de joyería perfectas para
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Rosa-1 | ![#FF99A8](https://via.placeholder.com/10/FF99A8?text=+) #FF99A8 |
-| Rosa-2 | ![#FFB3BE](https://via.placeholder.com/10/FFB3BE?text=+) #FFB3BE |
-| Rosa-3 | ![#FFCCD4](https://via.placeholder.com/10/FFCCD4?text=+) #FFCCD4 |
-| Rosa-4 | ![#FFE5E9](https://via.placeholder.com/10/FFE5E9?text=+) #FFE5E9 |
+| Color | ![#FF99A8](https://via.placeholder.com/10/FF99A8?text=+) #FF99A8 |
+| Color | ![#FFB3BE](https://via.placeholder.com/10/FFB3BE?text=+) #FFB3BE |
+| Color | ![#FFCCD4](https://via.placeholder.com/10/FFCCD4?text=+) #FFCCD4 |
+| Color | ![#FFE5E9](https://via.placeholder.com/10/FFE5E9?text=+) #FFE5E9 |
 
 # Prototype Web
 
@@ -23,9 +23,9 @@ https://tiendalapulga.com/
 ## Demo
 
 ### Zona Pública
--  
-- 
--
+-  https://consu92.github.io/BORLA-Publica/
+-  https://consu92.github.io/BORLA-Publica/contacto.html
+-  https://consu92.github.io/BORLA-Publica/productos.html
 
 ### Zona Privada
  
