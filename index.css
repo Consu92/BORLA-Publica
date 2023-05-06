@@ -114,7 +114,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/front-end.jpg");
+    ,url("media/aros-mov.png");
 
 }
 
@@ -124,7 +124,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/full-stack.jpg");
+    ,url("media/anillos.jpg");
 }
 
 .carta:nth-child(3){
@@ -133,7 +133,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/python.jpg");
+    ,url("media/collar.jpg");
 
 }
 
@@ -242,7 +242,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/front-end-cropped.jpg");
+        ,url("media/aros-cropped.png");
 
     }
 
@@ -252,7 +252,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/full-stack-cropped.jpg");
+        ,url("media/anillos-cropped.png");
     }
 
     .carta:nth-child(3){
@@ -261,7 +261,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/python-cropped.jpg");
+        ,url("media/collar-cropped.png");
 
     }
 
