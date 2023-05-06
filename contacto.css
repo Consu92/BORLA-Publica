@@ -1,0 +1,224 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+h1{ font-size: 3.5em;}
+h2{ font-size: 2.7em;}
+h3{ font-size: 2em;}
+p{ font-size: 1.25em;}
+
+
+button{
+    font-size: 1.25em;
+    font-weight: bold;
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: 2px solid rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+    color: white;
+    background-color: blueviolet;
+}
+
+button:hover{
+    background-color: rgb(101, 33, 165);
+}
+
+.container{
+    max-width: 1400px;
+    margin: auto;
+}
+
+.color-acento{ color:blueviolet; }
+
+header{
+    background-color: #E9CCFF;
+    
+}
+
+header .logo{
+    margin: 0;
+    padding: 25px 30px;
+    font-weight: bold;
+    color: blueviolet;
+    font-size: 1.6em;
+}
+
+header .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header nav{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+header a{
+    padding: 5px 12px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+header a:hover{
+    color: blueviolet;
+}
+
+#somos-borla .container{
+    text-align: center;
+    padding: 200px 12px;
+}
+
+
+/*FORMULARIO*/
+
+form{
+    display: grid;
+    place-items: center;
+
+}
+
+button, input {
+    overflow: visible;
+}
+
+.theme-btn-send{
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #edecec;
+    color: #4b4342;
+    display: inline-block;
+    font-family: Merienda One;
+    font-size: 17px;
+    line-height: 30px;
+    margin-top: 10px;
+    min-width: 160px;
+    padding: 4px 20px;
+    position: relative;
+    text-align: center;
+    transition: all 500ms ease;
+    white-space: nowrap;
+}
+.theme-btn-send:hover{
+    background-color: #4b4342;
+    border: 1px solid #4b4342;
+    color: #ffffff;
+}
+
+input, textarea{
+    border-radius: 6px;
+    border: 1px solid #edecec;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+    margin: 0.5rem 0 0.5rem 0;
+    min-height: 42px;
+    padding: 0 25px;
+    position: relative;
+    width: 100%;
+}
+
+textarea {
+    height: 130px;
+    resize: none;
+}
+
+
+/*FINAL*/
+
+#final{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(30,30,30);
+    color: white;
+    height: 80vh;
+}
+
+footer{
+    background-color: #E9CCFF;
+}
+
+footer p{
+    margin: 0;
+    padding: 12px;
+    color: blueviolet;
+}
+
+footer .container{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+@media (min-width: 850px){
+    header{
+        position: fixed;
+        width: 100%;
+    }
+
+    header .container{
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    header nav{
+        flex-direction: row;
+        padding-bottom: 0;
+        padding-right: 20px;
+    }
+
+    #somos-borla .container{
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    #somos-borla .texto{
+        width: 50%;
+        max-width: 600px;
+        text-align: initial;
+        padding-left: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #somos-borla h2{
+        margin-top: 0px;
+    }
+
+    #somos-borla .img-container{
+        background-image: url("media/somos-borla.png");
+        background-size: cover;
+        background-position: center center;
+        height: 400px;
+        width: 400px; 
+    }
+
+    #final h2{
+        font-size: 5em;
+    }
+
+    #final button{
+        font-size: 2em;
+    }
+
+    footer .container{
+        justify-content: flex-end;
+    }
+}

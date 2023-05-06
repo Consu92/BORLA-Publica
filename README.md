@@ -10,3 +10,60 @@ Si estás buscando un lugar para encontrar las piezas de joyería perfectas para
 | Rosa-2 | ![#FFB3BE](https://via.placeholder.com/10/FFB3BE?text=+) #FFB3BE |
 | Rosa-3 | ![#FFCCD4](https://via.placeholder.com/10/FFCCD4?text=+) #FFCCD4 |
 | Rosa-4 | ![#FFE5E9](https://via.placeholder.com/10/FFE5E9?text=+) #FFE5E9 |
+
+# Prototype Web
+
+
+
+## Inspiración 
+
+https://tiendalapulga.com/ 
+
+
+## Demo
+
+### Zona Pública
+-  
+- 
+-
+
+### Zona Privada
+ 
+
+**usuario:**   
+**contraseña:**  
+
+
+## Fastify Server - API Reference
+
+ 
+
+#### Setup
+
+
+
+#### Login
+
+
+
+
+#### Guardar el contacto o consulta
+
+
+
+#### Listar categorías de productos
+
+
+
+#### Crear categoría de productos
+
+
+
+
+#### Borrar una categoría de productos
+
+
+
+## Authors
+
+- [@Consu92](https://github.com/Consu92)
