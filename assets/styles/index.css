@@ -114,7 +114,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/aros-mov.png");
+    ,url("/assets/media/aros-mov.png");
 
 }
 
@@ -124,7 +124,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/anillos.jpg");
+    ,url("/assets/media/anillos.jpg");
 }
 
 .carta:nth-child(3){
@@ -133,7 +133,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/collar.jpg");
+    ,url("/assets/media/collar.jpg");
 
 }
 
@@ -202,7 +202,7 @@ footer .container{
     }
 
     #somos-borla .img-container{
-        background-image: url("media/somos-borla.png");
+        background-image: url("/assets/media/somos-borla.png");
         background-size: cover;
         background-position: center center;
         height: 400px;
@@ -242,7 +242,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/aros-cropped.png");
+        ,url("/assets/media/aros-cropped.png");
 
     }
 
@@ -252,7 +252,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/anillos-cropped.png");
+        ,url("/assets/media/anillos-cropped.png");
     }
 
     .carta:nth-child(3){
@@ -261,7 +261,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/collar-cropped.png");
+        ,url("/assets/media/collar-cropped.png");
 
     }
 
