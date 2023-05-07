@@ -4,7 +4,7 @@ Si estás buscando un lugar para encontrar las piezas de joyería perfectas para
 
 # LOGO
 
-![Guía de Estilo](./assets/media/)
+![Guía de Estilo](./assets/media/somos-borla.png)
 
 ## Guía Estilo
 
