@@ -20,8 +20,6 @@ Si estás buscando un lugar para encontrar las piezas de joyería perfectas para
 https://tiendalapulga.com/ 
 
 
-## Demo
-
 ### Zona Pública
 -  https://consu92.github.io/BORLA-Publica/
 -  https://consu92.github.io/BORLA-Publica/contacto.html
